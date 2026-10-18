@@ -98,3 +98,7 @@ Weather data by [Open-Meteo.com](https://open-meteo.com/) (CC BY 4.0).
 - Using environment variables safely in a frontend app
 - Mocking network requests in tests
 - Setting up Continuous Integration with GitHub Actions
+
+## LIVE DEMO
+
+https://react-weather-app-azure-ten.vercel.app
